@@ -1,0 +1,523 @@
+# depslib dependency file v1.0
+1463778055 source:c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\main.cpp
+	"Application.h"
+
+1330557110 c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\include\graphics.hpp
+	<string>
+
+1463649085 c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\include\adat.h
+	<vector>
+	<iostream>
+
+1463651031 source:c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\src\adat.cpp
+	"Adat.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
+1463643805 source:c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\src\application.cpp
+	"Application.h"
+
+1463643805 c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\include\application.h
+
+1463657572 source:c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\src\textbox.cpp
+	"TextBox.h"
+	"graphics.hpp"
+	"Widgets.h"
+
+1463658852 c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\include\textbox.h
+	<string>
+	"Widgets.h"
+
+1463658746 c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\include\widgets.h
+	"graphics.hpp"
+
+1463657752 source:c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\src\widgets.cpp
+	"Widgets.h"
+
+1463661495 source:c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\edittext.cpp
+	"EditText.h"
+
+1463660047 c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\edittext.h
+	"Text.h"
+
+1463777835 c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\text.h
+	<string>
+	"Widget.h"
+
+1463776764 c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\widget.h
+	"graphics.hpp"
+
+1463816450 source:c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\text.cpp
+	"Text.h"
+	"graphics.hpp"
+	<sstream>
+
+1463765263 source:c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\widget.cpp
+	"Widget.h"
+
+1463777824 source:c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\adat.cpp
+	"Adat.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
+1463777812 c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\adat.h
+	<vector>
+	<iostream>
+
+1463822433 source:c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\application.cpp
+	"Application.h"
+
+1463821008 c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\application.h
+	"graphics.hpp"
+	"Engine.h"
+	"Adat.h"
+	"Widget.h"
+	"Text.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1463777812 c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\engine.h
+	"Text.h"
+	<vector>
+
+1463777812 source:c:\users\d-szl_000\desktop\bead3\bead3\graphicsproject\engine.cpp
+	"Engine.h"
+
+1463777824 source:c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\adat.cpp
+	"Adat.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
+1463777812 c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\adat.h
+	<vector>
+	<iostream>
+
+1463777812 source:c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\engine.cpp
+	"Engine.h"
+
+1463777812 c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\engine.h
+	"Text.h"
+	<vector>
+
+1463777835 c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\text.h
+	<string>
+	"Widget.h"
+
+1463776764 c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\widget.h
+	"graphics.hpp"
+
+1330557110 c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\include\graphics.hpp
+	<string>
+
+1463778055 source:c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\main.cpp
+	"Application.h"
+
+1464264660 c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\include\application.h
+	"graphics.hpp"
+	"Engine.h"
+	"Adat.h"
+	"Widget.h"
+	"Text.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1463816450 source:c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\text.cpp
+	"Text.h"
+	"graphics.hpp"
+	<sstream>
+
+1463765263 source:c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\widget.cpp
+	"Widget.h"
+
+1464264660 c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\application.h
+	"graphics.hpp"
+	"Engine.h"
+	"Adat.h"
+	"Widget.h"
+	"Text.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1464515544 source:c:\users\d-szl_000\desktop\prog\bead3\bead3\graphicsproject\application.cpp
+	"Application.h"
+
+1463777824 source:c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\adat.cpp
+	"Adat.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
+1463777812 c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\adat.h
+	<vector>
+	<iostream>
+
+1464515544 source:c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\application.cpp
+	"Application.h"
+
+1464264660 c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\application.h
+	"graphics.hpp"
+	"Engine.h"
+	"Adat.h"
+	"Widget.h"
+	"Text.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1330557110 c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\include\graphics.hpp
+	<string>
+
+1463777812 c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\engine.h
+	"Text.h"
+	<vector>
+
+1463777835 c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\text.h
+	<string>
+	"Widget.h"
+
+1463776764 c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\widget.h
+	"graphics.hpp"
+
+1463777812 source:c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\engine.cpp
+	"Engine.h"
+
+1463778055 source:c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\main.cpp
+	"Application.h"
+
+1463816450 source:c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\text.cpp
+	"Text.h"
+	"graphics.hpp"
+	<sstream>
+
+1463765263 source:c:\users\d-szl_000\desktop\prog\grafikus\beadandok\bead3\bead3\graphicsproject\widget.cpp
+	"Widget.h"
+
+1463777824 source:c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\adat.cpp
+	"Adat.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
+1463777812 c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\adat.h
+	<vector>
+	<iostream>
+
+1494757529 source:c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\application.cpp
+	"Application.h"
+
+1464264660 c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\application.h
+	"graphics.hpp"
+	"Engine.h"
+	"Adat.h"
+	"Widget.h"
+	"Text.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1330557110 c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\include\graphics.hpp
+	<string>
+
+1463777812 c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\engine.h
+	"Text.h"
+	<vector>
+
+1463777835 c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\text.h
+	<string>
+	"Widget.h"
+
+1463776764 c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\widget.h
+	"graphics.hpp"
+
+1463777812 source:c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\engine.cpp
+	"Engine.h"
+
+1463778055 source:c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\main.cpp
+	"Application.h"
+
+1463816450 source:c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\text.cpp
+	"Text.h"
+	"graphics.hpp"
+	<sstream>
+
+1463765263 source:c:\users\d-szl_000\desktop\egyetem\prog\grafikus\beadandok\bead3\bead3\graphicsproject\widget.cpp
+	"Widget.h"
+
+1463774224 source:c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\adat.cpp
+	"Adat.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
+1463774212 c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\adat.h
+	<vector>
+	<iostream>
+
+1494754242 source:c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\application.cpp
+	"Application.h"
+
+1464261060 c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\application.h
+	"graphics.hpp"
+	"Engine.h"
+	"Adat.h"
+	"Widget.h"
+	"Text.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1330553510 c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\include\graphics.hpp
+	<string>
+
+1463774212 c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\engine.h
+	"Text.h"
+	<vector>
+
+1463774235 c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\text.h
+	<string>
+	"Widget.h"
+
+1463773164 c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\widget.h
+	"graphics.hpp"
+
+1463774212 source:c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\engine.cpp
+	"Engine.h"
+
+1463774455 source:c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\main.cpp
+	"Application.h"
+
+1463812850 source:c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\text.cpp
+	"Text.h"
+	"graphics.hpp"
+	<sstream>
+
+1463761663 source:c:\users\d-szl_000\desktop\életem\egyetem\0_prog\grafikus\beadandok\bead3\bead3\graphicsproject\widget.cpp
+	"Widget.h"
+
+1463777824 source:c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\adat.cpp
+	"Adat.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
+1463777812 c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\adat.h
+	<vector>
+	<iostream>
+
+1521129404 source:c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\application.cpp
+	"Application.h"
+
+1464264660 c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\application.h
+	"graphics.hpp"
+	"Engine.h"
+	"Adat.h"
+	"Widget.h"
+	"Text.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1330557110 c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\include\graphics.hpp
+	<string>
+
+1463777812 c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\engine.h
+	"Text.h"
+	<vector>
+
+1463777835 c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\text.h
+	<string>
+	"Widget.h"
+
+1463776764 c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\widget.h
+	"graphics.hpp"
+
+1463777812 source:c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\engine.cpp
+	"Engine.h"
+
+1463778055 source:c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\main.cpp
+	"Application.h"
+
+1463816450 source:c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\text.cpp
+	"Text.h"
+	"graphics.hpp"
+	<sstream>
+
+1463765263 source:c:\users\tulaj\desktop\eszter\beadando3\bead3\bead3\graphicsproject\widget.cpp
+	"Widget.h"
+
+1525641216 source:c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\adat.cpp
+	"Adat.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
+1525641216 c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\adat.h
+	<vector>
+	<iostream>
+
+1525643142 source:c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\application.cpp
+	"Application.h"
+
+1525642950 c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\application.h
+	"graphics.hpp"
+	"Engine.h"
+	"Adat.h"
+	"Widget.h"
+	"Text.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1330557110 c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\include\graphics.hpp
+	<string>
+
+1525641216 c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\engine.h
+	"Text.h"
+	<vector>
+
+1525641216 c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\text.h
+	<string>
+	"Widget.h"
+
+1525641215 c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\widget.h
+	"graphics.hpp"
+
+1525641216 source:c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\engine.cpp
+	"Engine.h"
+
+1525641216 source:c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\main.cpp
+	"Application.h"
+
+1525641216 source:c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\text.cpp
+	"Text.h"
+	"graphics.hpp"
+	<sstream>
+
+1525641216 source:c:\users\tulaj\desktop\beadando3\bead3\bead3\graphicsproject\widget.cpp
+	"Widget.h"
+
+1463777824 source:c:\users\tulaj\desktop\beadando3\adat.cpp
+	"Adat.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+
+1463777812 c:\users\tulaj\desktop\beadando3\adat.h
+	<vector>
+	<iostream>
+
+1525950212 source:c:\users\tulaj\desktop\beadando3\application.cpp
+	"Application.h"
+
+1464264660 c:\users\tulaj\desktop\beadando3\application.h
+	"graphics.hpp"
+	"Engine.h"
+	"Adat.h"
+	"Widget.h"
+	"Text.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1330557110 c:\users\tulaj\desktop\beadando3\include\graphics.hpp
+	<string>
+
+1463777812 c:\users\tulaj\desktop\beadando3\engine.h
+	"Text.h"
+	<vector>
+
+1463777835 c:\users\tulaj\desktop\beadando3\text.h
+	<string>
+	"Widget.h"
+
+1463776764 c:\users\tulaj\desktop\beadando3\widget.h
+	"graphics.hpp"
+
+1463777812 source:c:\users\tulaj\desktop\beadando3\engine.cpp
+	"Engine.h"
+
+1525779555 source:c:\users\tulaj\desktop\beadando3\main.cpp
+	"Application.h"
+
+1526207381 source:c:\users\tulaj\desktop\beadando3\text.cpp
+	"Text.h"
+	"graphics.hpp"
+	<sstream>
+
+1463765263 source:c:\users\tulaj\desktop\beadando3\widget.cpp
+	"Widget.h"
+
+1525948215 c:\users\tulaj\desktop\beadando3\checker.h
+	"Text.h"
+	<vector>
+
+1525948390 source:c:\users\tulaj\desktop\beadando3\checker.cpp
+	"Checker.h"
+
+1525948390 c:\users\tulaj\desktop\beadando3\include\application.h
+	"graphics.hpp"
+	"Checker.h"
+	"Adat.h"
+	"Widget.h"
+	"Text.h"
+	<vector>
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1525948215 c:\users\tulaj\desktop\beadando3\include\checker.h
+	"Text.h"
+	<vector>
+
+1525641216 c:\users\tulaj\desktop\beadando3\include\text.h
+	<string>
+	"Widget.h"
+
+1525641215 c:\users\tulaj\desktop\beadando3\include\widget.h
+	"graphics.hpp"
+
+1525641216 c:\users\tulaj\desktop\beadando3\include\adat.h
+	<vector>
+	<iostream>
+
+1525641216 source:c:\users\tulaj\desktop\beadando3\src\adat.cpp
+	"Adat.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<time.h>
+

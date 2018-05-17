@@ -46,8 +46,8 @@
 		<Unit filename="Adat.h" />
 		<Unit filename="Application.cpp" />
 		<Unit filename="Application.h" />
-		<Unit filename="Checker.cpp" />
-		<Unit filename="Checker.h" />
+		<Unit filename="Engine.cpp" />
+		<Unit filename="Engine.h" />
 		<Unit filename="Text.cpp" />
 		<Unit filename="Text.h" />
 		<Unit filename="Widget.cpp" />

@@ -64,9 +64,19 @@ void Text::handle(event ev)
     }
     else
         {
+        if(x()<4*sx && y()<4*sy ||
+           x()<4*sx && y()>7*sy ||
+           x()>4*sx && x()<7*sx && y()<7*sy && y()>4*sx ||
+           x()>7*sx && y()<4*sy ||
+           x()>7*sx && y()>7*sy)
+            {
                 gout<<color(10,10,250);
                 gout<<move_to(x(),y())<<box(sx,sy);
+            }else{
+                gout<<color(0,0,150);
+                gout<<move_to(x(),y())<<box(sx,sy);
         }
+    }
 
     if(write && focused)
     {

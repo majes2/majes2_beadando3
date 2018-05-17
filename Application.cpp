@@ -80,7 +80,7 @@ void Application::run()
         int a=0;
         int c=0;
         int _sy;
-        for(unsigned int j=0; j<adatok.size(); j++)///kockák kirajzolása
+        for(unsigned int j=0; j<adatok.size(); j++)///kockÃ¡k kirajzolÃ¡sa
         {
             Text* t = new Text(50+b,50+a,50,50,adatok[i][j]);
             t->write=false;
@@ -91,7 +91,7 @@ void Application::run()
         }
         b=b+_sy+2;
     }
-    int   lev = 50; /// rand()%30+20; //random nehézségek
+    int   lev = 50; /// rand()%30+20; //random nehÃ©zsÃ©gek
     for(size_t i=0; i<lev; i++)
     {
         d=rand() %w.size();
@@ -99,7 +99,7 @@ void Application::run()
         w[d]->write=true;
         nothing_index.push_back(d);
     }
-    Check e;
+    Engine e;
     menuu=true;
     while(gin >> ev && ev.keycode!=key_escape)
     {

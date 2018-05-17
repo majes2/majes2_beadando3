@@ -25,6 +25,7 @@ protected:
     int b=0;
     bool gameover=false;
     bool menuu;
+    int tries=0;
 private:
     std::vector<Widget*> w;
 };
